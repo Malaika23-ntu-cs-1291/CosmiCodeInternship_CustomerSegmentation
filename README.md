@@ -120,7 +120,7 @@ Dataset: **`Mall_Customers.csv`** (Kaggle)
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/customer-segmentation.git
+   git clone https://github.com/Malaika23-ntu-cs-1291/customer-segmentation.git
    cd customer-segmentation
 2.Install dependencies:
 
